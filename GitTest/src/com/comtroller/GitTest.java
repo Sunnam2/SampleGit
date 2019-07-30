@@ -19,6 +19,7 @@ public class GitTest extends HttpServlet {
 		// TODO Auto-generated method stub
 		System.out.println("b");
 		System.out.println("H1");
+		System.out.println("H2");
 		doGet(request, response);
 	}
 
