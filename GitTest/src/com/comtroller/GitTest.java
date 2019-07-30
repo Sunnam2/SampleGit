@@ -23,6 +23,7 @@ public class GitTest extends HttpServlet {
 		System.out.println("H3");
 		System.out.println("H4");
 		System.out.println("H5");
+		System.out.println("H6");
 		doGet(request, response);
 	}
 
