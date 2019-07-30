@@ -21,6 +21,7 @@ public class GitTest extends HttpServlet {
 		System.out.println("H1");
 		System.out.println("H2");
 		System.out.println("H3");
+		System.out.println("H4");
 		doGet(request, response);
 	}
 
