@@ -18,6 +18,7 @@ public class GitTest extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		System.out.println("b");
+		System.out.println("H1");
 		doGet(request, response);
 	}
 
